@@ -32,7 +32,7 @@ Check out `good-first-issues` for contributing [here](https://github.com/sj50270
 
 
  
-### Contributing
+### **Contributing**
 
 Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
